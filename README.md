@@ -79,13 +79,8 @@ Me chamo Lucas de Freitas Bovo, tenho 20 anos e moro em Maringá no Paraná. Con
 <br/>
 
 ### 📊 Estatísticas
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200px" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=LucasBovo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+
+![LucasBovo GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBovo&show_icons=true&theme=tokyonight)
 <img 
     align="left" 
     alt="GitHub Stats" 
