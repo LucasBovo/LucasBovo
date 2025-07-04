@@ -2,7 +2,7 @@
 
 **Desenvolvedor**
 
-Me chamo Lucas de Freitas Bovo, tenho 20 anos e moro em Maringá no Paraná. Concluí meu ensino médio no Colégio Santa Cruz. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR. 
+Me chamo Lucas de Freitas Bovo, tenho 20 anos e moro em Maringá no Paraná. Concluí meu ensino médio no Colégio Santa Cruz. Atualmente estou graduado em Análise e Desenvolvimento de Sistemas e inicio minha jornada em Engenharia de Software, ambos na UNICESUMAR. 
 
 <p align="left">
     </a> 
