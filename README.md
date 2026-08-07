@@ -177,8 +177,8 @@ lucas@dev-machine:~$ echo "carregando próxima missão..."
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasBovo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F6FF&icon_color=00F6FF&text_color=C9D1D9&ring=00F6FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBovo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F6FF&text_color=C9D1D9&langs_count=8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=LucasBovo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F6FF&icon_color=00F6FF&text_color=C9D1D9&ring=00F6FF" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasBovo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F6FF&text_color=C9D1D9&langs_count=8" />
 
 <br/>
 
@@ -210,7 +210,6 @@ lucas@dev-machine:~$ echo "carregando próxima missão..."
 
 <img src="https://raw.githubusercontent.com/LucasBovo/LucasBovo/output/github-contribution-grid-snake-dark.svg" />
 
-<sub>⚠️ Anime abaixo o workflow do <b>Platane/snk</b> no seu repositório <code>LucasBovo/LucasBovo</code> para gerar essa animação automaticamente (veja instruções ao final do arquivo).</sub>
 
 </div>
 
