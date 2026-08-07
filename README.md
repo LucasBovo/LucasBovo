@@ -19,7 +19,7 @@
 ---
 
 <!-- ================= SOBRE MIM ================= -->
-## `<SYSTEM_LOG>` 👨‍💻 SOBRE MIM
+👨‍💻 SOBRE MIM
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/StartupTechies/StartupTechies/main/rocket.gif" onerror="this.style.display='none'"/>
 
@@ -47,7 +47,7 @@ modo_operacao: "full-stack | orientado a soluções | detalhista"
 ---
 
 <!-- ================= TECH STACK ================= -->
-## `<MODULE_LOADED>` 🧠 TECH STACK
+🧠 TECH STACK
 
 <div align="center">
 
@@ -69,7 +69,7 @@ modo_operacao: "full-stack | orientado a soluções | detalhista"
 ---
 
 <!-- ================= FERRAMENTAS ================= -->
-## `<TOOLS_ARRAY>` 🛠️ FERRAMENTAS UTILIZADAS
+🛠️ FERRAMENTAS UTILIZADAS
 
 <div align="center">
 
@@ -86,7 +86,7 @@ modo_operacao: "full-stack | orientado a soluções | detalhista"
 ---
 
 <!-- ================= PROJETOS ================= -->
-## `<REPOSITORY_SCAN>` 🚀 PROJETOS EM DESTAQUE
+🚀 PROJETOS EM DESTAQUE
 
 <div align="center">
 
@@ -153,27 +153,27 @@ App de caronas/viagens entre estudantes voltado a reduzir impacto ambiental e in
 ---
 
 <!-- ================= OBJETIVOS ATUAIS (TERMINAL) ================= -->
-## `<PROCESS_RUNNING>` 🎯 OBJETIVOS ATUAIS
+🎯 OBJETIVOS ATUAIS
 
 ```bash
 lucas@dev-machine:~$ cat objetivos_2026.txt
 
 [✔] Concluir Engenharia de Software
 [✔] Solidificar stack Full Stack (React / Node / Java / Python)
-[⏳] Evoluir arquitetura do SistemaMundoPet
-[⏳] Aprofundar estudos em System Design & Boas Práticas
+[⏳] Evoluir arquitetura SistemaMundoPet
+[⏳] Aprofundar estudos em System Design e Boas Práticas
 [⏳] Contribuir com projetos open-source
 [ ] Explorar Cloud (AWS / GCP) e Docker em produção
 [ ] Expandir portfólio com projetos de IA aplicada
 
 lucas@dev-machine:~$ echo "carregando próxima missão..."
-> [██████████████████████████░░░░░░] 78% concluído_
+> [██████████████████████████        ] 78% concluído_
 ```
 
 ---
 
 <!-- ================= GITHUB STATS ================= -->
-## `<DATA_ANALYSIS>` 📊 GITHUB STATS
+📊 GITHUB STATS
 
 <div align="center">
 
@@ -193,7 +193,7 @@ lucas@dev-machine:~$ echo "carregando próxima missão..."
 ---
 
 <!-- ================= TROPHIES ================= -->
-## `<ACHIEVEMENTS_UNLOCKED>` 🏆 GITHUB TROPHIES
+🏆 GITHUB TROPHIES
 
 <div align="center">
 
@@ -204,7 +204,7 @@ lucas@dev-machine:~$ echo "carregando próxima missão..."
 ---
 
 <!-- ================= SNAKE ANIMATION ================= -->
-## `<CONTRIBUTION_STREAM>` 🐍 CONTRIBUTION SNAKE
+🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -217,7 +217,7 @@ lucas@dev-machine:~$ echo "carregando próxima missão..."
 ---
 
 <!-- ================= REDES SOCIAIS ================= -->
-## `<COMMUNICATION_CHANNELS>` 📡 REDES SOCIAIS
+📡 REDES SOCIAIS
 
 <div align="center">
 
