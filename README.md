@@ -19,7 +19,7 @@
 ---
 
 <!-- ================= SOBRE MIM ================= -->
-👨‍💻 SOBRE MIM
+👨‍💻 ABOUT ME
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/StartupTechies/StartupTechies/main/rocket.gif" onerror="this.style.display='none'"/>
 
@@ -69,7 +69,7 @@ modo_operacao: "full-stack | orientado a soluções | detalhista"
 ---
 
 <!-- ================= FERRAMENTAS ================= -->
-🛠️ FERRAMENTAS UTILIZADAS
+🛠️ TOOLS & TECHNOLOGIES
 
 <div align="center">
 
@@ -86,7 +86,7 @@ modo_operacao: "full-stack | orientado a soluções | detalhista"
 ---
 
 <!-- ================= PROJETOS ================= -->
-🚀 PROJETOS EM DESTAQUE
+🚀 FEATURED PROJECTS
 
 <div align="center">
 
@@ -153,7 +153,7 @@ App de caronas/viagens entre estudantes voltado a reduzir impacto ambiental e in
 ---
 
 <!-- ================= OBJETIVOS ATUAIS (TERMINAL) ================= -->
-🎯 OBJETIVOS ATUAIS
+🎯 CURRENT FOCUS
 
 ```bash
 lucas@dev-machine:~$ cat objetivos_2026.txt
@@ -173,7 +173,7 @@ lucas@dev-machine:~$ echo "carregando próxima missão..."
 ---
 
 <!-- ================= GITHUB STATS ================= -->
-📊 GITHUB STATS
+📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -204,7 +204,7 @@ lucas@dev-machine:~$ echo "carregando próxima missão..."
 ---
 
 <!-- ================= SNAKE ANIMATION ================= -->
-🐍 CONTRIBUTION SNAKE
+🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -216,7 +216,7 @@ lucas@dev-machine:~$ echo "carregando próxima missão..."
 ---
 
 <!-- ================= REDES SOCIAIS ================= -->
-📡 REDES SOCIAIS
+📡 CONNECT WITH ME
 
 <div align="center">
 
