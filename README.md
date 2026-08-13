@@ -51,16 +51,16 @@ modo_operacao: "full-stack | orientado a soluções | detalhista"
 
 <div align="center">
 
-### 🎨 Frontend
+###  Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts&theme=dark" />
 
-### ⚙️ Backend
+###  Backend
 <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python&theme=dark" />
 
-### 🗄️ Database
+###  Database
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,sqlite&theme=dark" />
 
-### 🐳 DevOps & Design
+###  DevOps & Design
 <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 
