@@ -192,17 +192,6 @@ lucas@dev-machine:~$ echo "carregando próxima missão..."
 
 ---
 
-<!-- ================= TROPHIES ================= -->
-🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LucasBovo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
 <!-- ================= SNAKE ANIMATION ================= -->
 🐍 CONTRIBUTION ACTIVITY
 
